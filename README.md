@@ -7,7 +7,7 @@ How to
 Step 1: Go to website https://paint-online-21horza.vercel.app/
 
 ----------------------------------------
-<img width="1388" alt="Screenshot 2022-07-30 at 22 29 15" src="https://user-images.githubusercontent.com/81642088/181919020-f92b66ba-4388-4012-8750-f3c16acfdf99.png">
+<img width="1381" alt="Screenshot 2022-07-30 at 22 29 15" src="https://user-images.githubusercontent.com/81642088/181919079-3f75d221-6753-4540-9c7d-1f0314a1aa3c.png">
 
 
 Step 2: Draw whatever you want and enjoy. When you done you can click save button at the top of the right corner to save the screenshot.
